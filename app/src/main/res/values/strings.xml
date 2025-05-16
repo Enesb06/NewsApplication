@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Haber Portalı</string> <!-- Zaten var olabilir -->
+    <!-- Diğer stringleriniz -->
+
+    <string name="news_list_description">Haber başlıkları listesi</string>
+    <string name="loading_indicator_description">Yükleniyor</string>
+</resources>
